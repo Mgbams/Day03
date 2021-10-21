@@ -1,0 +1,2 @@
+nc -l 8888
+nc localhost 8888 
