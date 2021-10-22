@@ -1,4 +1,4 @@
 mkdir /Users/admin/Documents/backup
 mkdir /Users/admin/scripts/bin
 sudo crontab -e 
-12 15 * * * /Users/admin/scripts/bin/backup.sh
+30 07 * * * /Users/admin/scripts/bin/backup.sh
